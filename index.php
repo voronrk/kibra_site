@@ -23,8 +23,7 @@
                 <button>Оплатить заказ</button>
             </div>
             <div class="contact-wrapper">
-                <a href="https://tlgg.ru/voron_76"><img src="img/t_logo.svg" alt=""></a>
-                <div class="phone">phone</div>
+                <a href="https://tlgg.ru/voron_76"><img src="img/t_logo.svg" alt="Telegram" height="50px"></a>
             </div>
         </div>
     </header>
