@@ -5,9 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./styles/styles.css">
+    <!-- <link rel="stylesheet" href="./styles/bulma.min.css"> -->
 
     <title>КИБРА - разработка приложений под Битрикс24</title>
 </head>
+
 <body>
     <header class="header">
         <div class="container dir-row">
@@ -18,9 +20,6 @@
                 <div class="logo-header-subtitle">
                     Разработка приложений для Битрикс24
                 </div>
-            </div>
-            <div class="pay-wrapper">
-                <button>Оплатить заказ</button>
             </div>
             <div class="contact-wrapper">
                 <a href="https://tlgg.ru/voron_76"><img src="img/t_logo.svg" alt="Telegram" height="50px"></a>
@@ -57,6 +56,9 @@
                 <div class="logo-footer-subtitle">
                     Разработка приложений для Битрикс24
                 </div>
+            </div>
+            <div class="pay-wrapper">
+                <button>Оплатить заказ</button>
             </div>
             <ul class="footer-menu">
                 <li>Юридическая информация</li>

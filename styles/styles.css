@@ -18,7 +18,7 @@ body {
 }
 
 .container {
-    max-width:80vw;
+    max-width:60vw;
     margin:0 auto;
     padding:10px 0;
     display:flex;
@@ -39,7 +39,7 @@ body {
 }
 
 .footer {
-    max-height:100px;
+    max-height:150px;
 }
 
 .logo {
@@ -116,6 +116,12 @@ input {
     margin-top:3vh;
     padding:3vh;
     font-size:2vh;
+    transition-property: border;
+    transition-duration: 0.2s;
+}
+
+input:hover {
+    border-color: rgb(14, 203, 250);
 }
 
 .button {
@@ -128,4 +134,11 @@ input {
     display:flex;
     flex-direction:column;
     flex-wrap:wrap;
+}
+
+.pay-wrapper button {
+    border-radius:5px;
+    cursor:pointer;
+    background-color:white;
+    height:80%;
 }
