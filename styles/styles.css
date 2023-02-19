@@ -11,6 +11,11 @@ body {
     background-repeat:no-repeat;
     background-position: center;
     background-size:cover;
+    height:85vh;
+}
+
+.header {
+    height: 10vh;
 }
 
 .is-main {
@@ -34,13 +39,12 @@ body {
 }
 
 .logo-header-title {
-    font-size:6.4vh;
+    font-size:4.27vh;
     line-height:100%;
 }
 
 .logo-header-subtitle {
-    font-size:1.5vh;
-    
+    font-size:1vh;    
 }
 
 .logo-footer-title {
